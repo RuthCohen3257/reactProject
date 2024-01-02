@@ -1,0 +1,5 @@
+
+#adminForm{
+    display: flex;
+    flex-direction: column;
+}
